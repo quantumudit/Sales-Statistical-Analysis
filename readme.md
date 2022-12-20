@@ -19,7 +19,7 @@
 
 ## Overview
 
-This project focuses on a statistical analysis of various key metrics that impacts the overall sales of a certain store. We received one year data with daily granularity of the store to perform the analysis. 
+This project focuses on a statistical analysis of various key metrics that impacts the overall sales of a certain fictitious store. We received one year data with daily granularity of the store to perform the analysis. 
 
 The repository directory structure is as follows:
 
